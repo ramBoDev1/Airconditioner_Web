@@ -1,0 +1,134 @@
+.order-card {
+    color: #fff;
+  }
+  
+  .bg-c-blue {
+    background: linear-gradient(45deg,#4099ff,#73b4ff);
+  }
+  
+  .bg-c-green {
+    background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+  }
+  
+  .bg-c-yellow {
+    background: linear-gradient(45deg,#FFB64D,#ffcb80);
+  }
+  
+  .bg-c-pink {
+    background: linear-gradient(45deg,#FF5370,#ff869a);
+  }
+  
+  
+  .card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .card .card-block {
+    padding: 25px;
+  }
+  
+  .order-card i {
+    font-size: 26px;
+  }
+  
+  .f-left {
+    float: left;
+  }
+  
+  .f-right {
+    float: right;
+  }
+  
+  .text-break {
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+
+  
+ 
+  
+  .card {
+      padding: 0px 15px;
+      border-radius: 20px
+  }
+  
+  .c1 {
+      background-color: #ffffff;
+      border-radius: 20px
+  }
+  
+  a {
+      margin: 0px;
+      font-size: 13px;
+      border-radius: 7px;
+      text-decoration: none;
+      color: black
+  }
+  
+  a:hover {
+      color: #b2ebf2;
+  }
+  
+  .nav-link {
+      padding: 1rem 1.4rem;
+      margin: 0rem 0.7rem
+  }
+  
+  .ac {
+      font-weight: bold;
+      color: #b2ebf2;
+      font-size: 12px
+  }
+  
+  input{
+      width: 96%;
+      background-color: #e0f7fa;
+      border-radius: 8px;
+      padding: 8px 17px;
+      font-size: 13px;
+      border: 1px solid #e0f7fa;
+      color: #607d8b
+  }
+  
+  
+  .bt {
+      background-color: #ff4133;
+      border: 1px solid rgb(300, 200, 200)
+  }
+  
+  form {
+      margin-top: 70px
+  }
+  
+  form>* {
+      margin: 10px 0px
+  }
+  
+  #forgot {
+      margin: 0px -60px
+  }
+  
+  #register {
+      text-align: center
+  }
+  
+
+  .wlcm {
+      font-size: 30px
+  }
+  
+  .sp1 {
+      font-size: 5px
+  }
+  
+  .sp1>span {
+      background-color: #f0c3be
+  }
+
+  
